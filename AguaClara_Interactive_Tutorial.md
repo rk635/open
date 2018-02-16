@@ -115,9 +115,9 @@ Image with Height and Width Adjusted:
 
 <!--- Fill you answer here. --->
 
-![Wowsers](https://github.com/rk635/personal/blob/master/Images/doggo.jpg?raw=true)
+![Wowsers](https://github.com/rk635/open/blob/master/Images/doggo.jpg?raw=true)
 ![Wowsers](/Images/doggo.jpg)
-<img src = "https://github.com/rk635/personal/blob/master/Images/doggo.jpg?raw=true" height = 100 width = 50>
+<img src = "https://github.com/rk635/open/blob/master/Images/doggo.jpg?raw=true" height = 100 width = 50>
 
 
 ## Links
